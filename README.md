@@ -1,1 +1,1 @@
-# Automatic-Speech-Recognition_ASR[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Automatic Speech Recognition (ASR)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
