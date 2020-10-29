@@ -7,7 +7,7 @@ So I will try my best to record the papers and codes in these years. If you have
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by contacting [me](739314837@qq.com) or add [pull request](https://github.com/luomingshuang/Cross-Modal-Pretraining-in-BERT/pulls)
+Please help contribute this list by contacting [me](739314837@qq.com) or add [pull request](https://github.com/luomingshuang/Automatic-Speech-Recognition_ASR/pulls)
 
 Markdown format:
 ```markdown
